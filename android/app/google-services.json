@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677020793595",
+    "project_id": "cashheart-b8dc9",
+    "storage_bucket": "cashheart-b8dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677020793595:android:7543218ba5ca002b550e5e",
+        "android_client_info": {
+          "package_name": "com.example.cashheart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3Efg2KyvB1d-PWgg7NlE8lLou28pCuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
